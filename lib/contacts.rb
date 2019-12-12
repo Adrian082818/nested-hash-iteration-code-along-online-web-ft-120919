@@ -22,5 +22,6 @@ contacts.each do |person, contact_detail_hash|
         data.delete_if{|ice_cream| ice_cream == "strawberry"}
       end 
     end 
+    end 
 end 
 end
